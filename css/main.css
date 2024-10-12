@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: rgb(199, 214, 238);
+    background-color: rgb(118, 139, 139);
 }
 
 #board {
@@ -13,12 +13,12 @@ body {
 }
 
 #player {
-    background-color: rgb(255, 0, 166);
+    //background-color: rgb(255, 0, 166);
     position: absolute;
 }
 
 .obstacle {
-    background-color: rgb(90, 19, 156);
+    //background-color: rgb(90, 19, 156);
     position: absolute;
 }
 
